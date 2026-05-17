@@ -44,20 +44,22 @@ Adolescentes e jovens usuários de redes sociais.
 
 # Proposta 03
 
-## Plataforma de Prevenção a Golpes na Internet
+## JFCAR
 
 ### Descrição
-Um site educativo que orienta usuários a identificar e evitar golpes digitais, como mensagens falsas, links suspeitos e fraudes em redes sociais.
+Um sistema web de mobilidade urbana inspirado em aplicativos de transporte, permitindo que passageiros solicitem corridas e motoristas aceitem viagens.
 
 ### Problema a ser solucionado
-Muitas pessoas caem em golpes na internet por falta de informação e conhecimento sobre segurança digital, o que pode causar perda de dinheiro e exposição de dados pessoais.
+Muitas pessoas possuem dificuldade para encontrar transporte rápido, seguro e acessível em algumas regiões da cidade.
 
 ### Público alvo
-Usuários de internet, especialmente adolescentes, idosos e pessoas com pouco conhecimento digital.
+Pessoas que precisam de transporte urbano e motoristas parceiros.
 
 ### Funcionalidades
-1. Lista de golpes mais comuns (WhatsApp, Instagram, e-mail)
-2. Dicas para identificar mensagens suspeitas
-3. Simulação de golpes para aprendizado
-4. Checklist de segurança digital
-5. Orientações do que fazer ao cair em um golpe
+
+1. Cadastro de passageiros e motoristas
+2. Solicitação de corridas
+3. Cálculo de distância e valor da viagem
+4. Localização do motorista
+5. Histórico de corridas
+6. Avaliação de motoristas e passageiros
